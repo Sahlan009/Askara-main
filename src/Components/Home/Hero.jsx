@@ -15,7 +15,7 @@ export default function Hero() {
             <TypeAnimation
               className="pl-2 md:text-5xl sm:text-4xl text-xl font-bold text-[#99FEFF]"
               cursor={false}
-              sequence={["Mountain", 2000, "Curture", 2000, "Beach", 2000]}
+              sequence={["Mountain", 2000, "Culture", 2000, "Beach", 2000]}
               repeat={Infinity}
             />
           </p>
